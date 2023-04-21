@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @elianataborda
 - 👀 I’m interested in automation
-- 🌱 I’m currently learning Java, SQL
+- 🌱 I’m currently learning Java, SQL and Python
 - 💞️ I’m looking to collaborate on automation projects
 - 📫 How to reach me ...
 
